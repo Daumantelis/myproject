@@ -1,5 +1,1 @@
-bananas
-carrots
-cherries
-oranges
-strawberries
+bananas lemons cherries oranges straweberries 
